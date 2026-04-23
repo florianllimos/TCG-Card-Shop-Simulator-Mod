@@ -1,0 +1,19 @@
+public enum ETutorialTaskCondition
+{
+	None,
+	RestockItem,
+	PickupBox,
+	PutItemOnShelf,
+	SetItemPrice,
+	OpenShop,
+	CheckoutCustomer,
+	ShopLevel,
+	OpenPack,
+	BuyPlayTable,
+	CustomerPlay,
+	BuyCardShelf,
+	PutCardOnShelf,
+	SellCard,
+	UnlockBasicCardBox,
+	InteractCashierCounter
+}

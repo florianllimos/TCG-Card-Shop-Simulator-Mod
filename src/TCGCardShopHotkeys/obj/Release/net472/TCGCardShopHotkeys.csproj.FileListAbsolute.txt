@@ -1,0 +1,9 @@
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.csproj.AssemblyReference.cache
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.AssemblyInfoInputs.cache
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.AssemblyInfo.cs
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.csproj.CoreCompileInputs.cache
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\bin\Release\net472\TCGCardShopHotkeys.dll
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\bin\Release\net472\TCGCardShopHotkeys.pdb
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.dll
+C:\laragon\www\TCG\src\TCGCardShopHotkeys\obj\Release\net472\TCGCardShopHotkeys.pdb

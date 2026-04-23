@@ -1,0 +1,24 @@
+public enum EGhostCardEffect
+{
+	None,
+	MoreMoney,
+	MoreFame,
+	MoreDP,
+	ReducePlayTableTime,
+	CustomerDoubleChance,
+	FoilChance,
+	CustomerSpendingPower,
+	CollectorChance,
+	SuperCollectorChance,
+	UltimateCollectorChance,
+	LegendaryCollectorChance,
+	CommonPackOverCharge,
+	CommonBoxOverCharge,
+	RarePackOverCharge,
+	RareBoxOverCharge,
+	EpicPackOverCharge,
+	EpicBoxOverCharge,
+	LegendaryPackOverCharge,
+	LegendaryBoxOverCharge,
+	MAX
+}

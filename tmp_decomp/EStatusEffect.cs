@@ -1,0 +1,23 @@
+public enum EStatusEffect
+{
+	None,
+	Poison,
+	Blind,
+	Stun,
+	Beserk,
+	Drain,
+	Wall,
+	PowerUp,
+	DefUp,
+	HPRegen,
+	Splash,
+	SPRegen,
+	Sticky,
+	Cleanse,
+	FocusFire,
+	Sleep,
+	SpeedUp,
+	SpeedDown,
+	Guard,
+	MAX
+}

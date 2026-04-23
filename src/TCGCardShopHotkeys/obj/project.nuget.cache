@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCQFHgQWAtE=",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\TCG\\src\\TCGCardShopHotkeys\\TCGCardShopHotkeys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itsfl\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\itsfl\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

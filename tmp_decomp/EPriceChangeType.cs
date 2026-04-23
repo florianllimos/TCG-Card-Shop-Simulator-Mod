@@ -1,0 +1,26 @@
+public enum EPriceChangeType
+{
+	None = -1,
+	CommonPackCard,
+	RarePackCard,
+	EpicPackCard,
+	LegendPackCard,
+	NoneCommonPackCard,
+	RandomRarityPackCard,
+	FireElement,
+	EarthElement,
+	WaterElement,
+	WindElement,
+	RandomElement,
+	FirstEdition,
+	SilverBorder,
+	GoldBorder,
+	ExBorder,
+	FullArtBorder,
+	RandomBorder,
+	Foil,
+	NonFoil,
+	RandomEffect,
+	Figurine,
+	ExpansionTetramon
+}

@@ -1,0 +1,26 @@
+public enum ECustomerState
+{
+	None = -1,
+	Idle,
+	WantToBuyItem,
+	WalkToShelf,
+	TakingItemFromShelf,
+	WantToPay,
+	QueuingToPay,
+	ReadyToPay,
+	ExitingShop,
+	ShopNotOpen,
+	WantToBuyCard,
+	WalkToCardShelf,
+	TakingItemFromCardShelf,
+	WantToPlayGame,
+	WalkToPlayTable,
+	PlayingAtTable,
+	EndingPlayTableGame,
+	QueueingPlayTable,
+	WantToTradeCard,
+	WaitingToTradeCard,
+	WantToTakeBulkDonationCard,
+	WalkToBulkDonationBox,
+	TakingItemFromBulkDonationBox
+}
